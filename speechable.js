@@ -1,0 +1,1 @@
+﻿javascript: (Array.prototype.forEach.call(document.querySelectorAll('input'), function(n) { n.setAttribute('x-webkit-speech', 'x-webkit-speech'); n.setAttribute('x-webkit-grammar', 'builtin:translate'); }))
